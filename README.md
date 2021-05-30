@@ -55,6 +55,7 @@ NaNs are listed in modified analysis:
 **Scores by school spending**
 
 NaNs are listed in modified analysis:
+
 ![Reading scores by Grade Original](Resources/reading_scores_by_grade_original.jpg) ![Reading scores by Grade Modified](Resources/reading_scores_by_grade_modified.jpg)
     
 **Scores by school size**
