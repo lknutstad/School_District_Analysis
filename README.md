@@ -12,7 +12,7 @@ The reading and math scores for THS 9th graders need to be replaced with NaNs wh
 
 Without removing THS 9th graders math and reading scores, the averages scores for math, reading, and overall passing were as follows:
 
-![District Summary Original](Resources/district_summary_original.png)
+![District Summary Original](Resources/district_summary_original.jpg)
 
 After removing the compromised 9th grade results, an increase was observed in % passing math, % passing reading, and % overall passing:
 ![District Summary Modified](Resources/district_summary_modified.png)
