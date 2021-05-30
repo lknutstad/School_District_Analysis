@@ -46,18 +46,18 @@ Excluding the THS 9th graders:
 
 How does replacing the ninth-grade scores affect the following
 
-Math and reading scores by grade
+**Math and reading scores by grade**
 
 NaNs are listed in modified analysis:
 
 ![Math scores by Grade Original](Resources/math_scores_by_grade_original.jpg) ![Math scores by Grade Modified](Resources/math_scores_by_grade_modified.jpg)
     
-###Scores by school spending
+**Scores by school spending**
 
 NaNs are listed in modified analysis:
 ![Reading scores by Grade Original](Resources/reading_scores_by_grade_original.jpg) ![Reading scores by Grade Modified](Resources/reading_scores_by_grade_modified.jpg)
     
-###Scores by school size
+**Scores by school size**
 
 No difference is observed in scores by school size after removing THS 9th grade data
 
@@ -69,7 +69,7 @@ Excluding THS 9th grade data:
 ![scores per school size Original](Resources/scores_per_school_size_original.jpg)
 
     
-###Scores by school type 
+**Scores by school type**
 
 No difference is observed in scores by school git type after removing the THS 9th grade data
 
