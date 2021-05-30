@@ -15,7 +15,7 @@ Without removing THS 9th graders math and reading scores, the averages scores fo
 ![District Summary Original](Resources/district_summary_original.jpg)
 
 After removing the compromised 9th grade results, an increase was observed in % passing math, % passing reading, and % overall passing:
-![District Summary Modified](Resources/district_summary_modified.png)
+![District Summary Modified](Resources/district_summary_modified.jpg)
 
 
 
@@ -35,10 +35,10 @@ After removing the compromised 9th grade results, an increase was observed in % 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? A small, but insignicant change in school performance is observed with no effect on overall relative ranking.
 
 Including the  THS 9th graders:
-![Top Summary Original](Resources/top_schools_original.png)
+![Top Summary Original](Resources/top_schools_original.jpg)
  
 Excluding the THS 9th graders:
-![Top Summary Modified](Resources/top_schools_modified.png)
+![Top Summary Modified](Resources/top_schools_modified.jpg)
 
 
 
@@ -49,23 +49,23 @@ How does replacing the ninth-grade scores affect the following:
 
 NaNs are listed in modified analysis:
 
-![Math scores by Grade Original](Resources/math_scores_by_grade_original.png) ![Math scores by Grade Modified](Resources/math_scores_by_grade_modified.png)
+![Math scores by Grade Original](Resources/math_scores_by_grade_original.jpg) ![Math scores by Grade Modified](Resources/math_scores_by_grade_modified.jpg)
     
 ###Scores by school spending
 
 NaNs are listed in modified analysis:
-![Reading scores by Grade Original](Resources/reading_scores_by_grade_original.png) ![Reading scores by Grade Modified](Resources/reading_scores_by_grade_modified.png)
+![Reading scores by Grade Original](Resources/reading_scores_by_grade_original.jpg) ![Reading scores by Grade Modified](Resources/reading_scores_by_grade_modified.png)
     
 ###Scores by school size
 
 No difference is observed in scores by school size after removing THS 9th grade data
 
 Including THS 9th grade data:
-![scores per school size Original](Resources/scores_per_school_size_original.png)
+![scores per school size Original](Resources/scores_per_school_size_original.jpg)
 
 Excluding THS 9th grade data:
 
-![scores per school size Original](Resources/scores_per_school_size_original.png)
+![scores per school size Original](Resources/scores_per_school_size_original.jpg)
 
     
 ###Scores by school type 
@@ -73,11 +73,11 @@ Excluding THS 9th grade data:
 No difference is observed in scores by school type after removing the THS 9th grade data
 
 Including THS 9th grade data:
-![scores per school spending Original](Resources/scores_per_school_spending_original.png) 
+![scores per school spending Original](Resources/scores_per_school_spending_original.jpg) 
 
 Excluding THS 9th grade data:
     
-![scores per school spending Modified](Resources/scores_per_school_spending_modified.png)
+![scores per school spending Modified](Resources/scores_per_school_spending_modified.jpg)
 
 
 
