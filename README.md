@@ -63,6 +63,7 @@ NaNs are listed in modified analysis:
 No difference is observed in scores by school size after removing THS 9th grade data
 
 Including THS 9th grade data:
+
 ![scores per school size Original](Resources/scores_per_school_size_original.jpg)
 
 Excluding THS 9th grade data:
