@@ -32,7 +32,7 @@ After removing the compromised 9th grade results, an increase was observed in % 
 
 
 ## Thomas High School Relative Performance
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? A small, but insignicant change in school performance is observed with no effect on overall relative ranking.
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  A small, but insignicant change in school performance is observed with no effect on overall relative ranking.
 
 Including the  THS 9th graders:
 ![Top Summary Original](Resources/top_schools_original.jpg)
@@ -44,8 +44,9 @@ Excluding the THS 9th graders:
 
 ## Other Metrics
 
-How does replacing the ninth-grade scores affect the following:
-###Math and reading scores by grade
+How does replacing the ninth-grade scores affect the following
+
+Math and reading scores by grade
 
 NaNs are listed in modified analysis:
 
@@ -70,7 +71,7 @@ Excluding THS 9th grade data:
     
 ###Scores by school type 
 
-No difference is observed in scores by school type after removing the THS 9th grade data
+No difference is observed in scores by school git type after removing the THS 9th grade data
 
 Including THS 9th grade data:
 ![scores per school spending Original](Resources/scores_per_school_spending_original.jpg) 
